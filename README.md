@@ -1,16 +1,13 @@
-### Hi there 👋
+<table>
+<tr>
+<td><img src="https://c.tenor.com/KUxnD7iuWh0AAAAC/ore-gairu-my-teen-romantic-comedy-snafu.gif"></td>
+<td><img src="https://c.tenor.com/IVVJbs0N7DcAAAAC/vivy-dance.gif"></td>
+</tr>
+</table>
 
-<!--
-**shuchan-dev/shuchan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/shuchan-dev/shuchan-dev">
+        <img src="https://github-readme-stats.vercel.app/api?username=shuchan-dev&show_icons=true&theme=tokyonight">
+    </a>
+</p>
