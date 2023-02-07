@@ -9,5 +9,6 @@
 <p align="center">
     <a href="https://github.com/shuchan-dev/shuchan-dev">
         <img src="https://github-readme-stats.vercel.app/api?username=shuchan-dev&show_icons=true&theme=tokyonight">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuchan-dev&layout=compact"> 
     </a>
 </p>
